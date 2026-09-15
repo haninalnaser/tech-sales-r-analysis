@@ -28,6 +28,17 @@ The project includes:
 - Age had very little linear association with NPS (r = 0.037).
 - Diplomat and Explorer personality groups had higher average NPS scores than Analyst and Sentinel groups.
 
+## Visualizations
+
+### Salary vs. NPS
+![Salary vs. NPS](figures/salary_vs_nps.png)
+
+### Certificates vs. NPS
+![Certificates vs. NPS](figures/certificates_vs_nps.png)
+
+### Average NPS by Personality
+![Average NPS by Personality](figures/nps_by_personality.png)
+
 ## Business Value
 This analysis demonstrates how exploratory data analysis can help identify workforce characteristics associated with sales performance. These findings can support further investigation into employee development, compensation, training, and performance management.
 
